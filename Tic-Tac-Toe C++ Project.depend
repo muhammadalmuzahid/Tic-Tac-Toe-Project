@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727254194 source:c:\users\almuz\desktop\tic-tac-toe c++ project\main.cpp
+	<iostream>
+	<graphics.h>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<time.h>
+	<fstream>
+	<string.h>
+
